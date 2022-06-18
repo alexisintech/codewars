@@ -30,13 +30,15 @@ function isDivisible(n, x, y) {
   return n % x === 0 && n % y === 0
 }
 
-*/
-  
-
-/* ~*~*~*~*~*~*  OTHER SOLUTIONS
-
 function isDivisible(n, x, y) {
   return (n % x === 0 && n % y === 0) ? true : false;
 }
+
+*/
+  
+
+/* ~*~*~*~*~*~*  COMMENTS:
+
+n % x === 0 will tell us if n divided by x gives us a whole number (if n is divisible by x)
 
 */
