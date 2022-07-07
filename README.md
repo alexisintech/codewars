@@ -5,7 +5,7 @@ This repo contains my solutions to Codewars problems that I have used to strengt
 
 <img src="https://www.codewars.com/users/alexisintech/badges/large" alt="codewars rank">
 
-## Example Solution
+## Codewars Example
 
 #### Problem Link: https://www.codewars.com/kata/576bb71bbbcf0951d5000044
 
